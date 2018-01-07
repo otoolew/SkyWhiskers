@@ -8,6 +8,7 @@ public class UIController : MonoBehaviour {
     public GameObject pausePanel;                           //Store a reference to the Game Object PausePanel 
     public GameObject gameOverPanel;
     public GameObject debugPanel;
+    public GameObject messagePanel;
 
     //Call this function to activate and display the Pause panel during game play
     public void ShowPausePanel()
@@ -47,5 +48,17 @@ public class UIController : MonoBehaviour {
     public void HideDebugPanel()
     {
         debugPanel.SetActive(false);
+    }
+
+    ////Call this function to activate and display the Debug panel during game play
+    public void ShowMessagePanel()
+    {
+        messagePanel.SetActive(true);
+    }
+
+    //Call this function to deactivate and hide the Debug panel during game play
+    public void HideMessagePanel()
+    {
+        messagePanel.SetActive(false);
     }
 }
