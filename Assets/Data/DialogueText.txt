@@ -1,0 +1,24 @@
+Bill: Sup Henry. 
+Bill: This is a tweeked system I used in Alchemy Knights.
+Bill: I bought this on the Unity store to learn how yo do RPG Style Talking.
+Bill: I have modified differn't methods to suit our needs.
+Henry: We should test it in VR to make sure it works.
+Henry: By the way... why did you place my face in our project?
+Bill: Not sure man!
+Henry: So do you actually know how this works?
+Bill: Yeah! the scripts came well documented. I also have referenced this many times recently!
+Henry: Hum... smells fishy... 
+Bill: Well Schell Games was looking for experience with Unity Editor Scripting.
+Bill: When I started learning Unity I bought a Total Project TDSTK (Top Down Shooter Toolkit).
+Henry: Go on if you must...
+Bill: I must...
+Henry: Then continue you babbling Baffoon!
+Bill: Back to the dialogue system. I enlisted a fellow Pitt Student to help with Alchemy Knights.
+Bill: I tasked them with creating a dialogue system. As a back up I purchased this dialogue system.
+Henry: Take any shortcuts you can! I told you that months ago!
+Bill: Although the students attempt was good, the system wasnt ready... So I frankly learned how to use this tool. 
+Henry: So do you know it now?
+Bill: Sure do! let me know if you have any questions about it. I have added additional comments in the code. 
+Bill: In the Unity Editor you will see Dialogue as a menu item. Click on that and create a base instance. 
+Bill: Then the inspector will guide you through.
+Henry: Let me look at it and decide whether this is jacked up...
