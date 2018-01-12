@@ -859,7 +859,6 @@ public class Dialogue : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //We don't want to do nothing if the text isn't even showing
         if (!textUI.gameObject.activeInHierarchy)
         {
             return;
