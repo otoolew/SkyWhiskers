@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 19900000}
   - component: {fileID: 19800000}
   - component: {fileID: 11400014}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Glow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27,7 +27,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400002}
   - component: {fileID: 14600000}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: WheelFront
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43,7 +43,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400004}
   - component: {fileID: 14600002}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: WheelRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59,7 +59,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400006}
   - component: {fileID: 14600004}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: WheelLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -74,7 +74,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 400008}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Colliders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 11400012}
   - component: {fileID: 9500000}
   - component: {fileID: 11400010}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: AircraftJet
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -114,7 +114,7 @@ GameObject:
   - component: {fileID: 400012}
   - component: {fileID: 3300002}
   - component: {fileID: 6500000}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: TailfinRightBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -130,7 +130,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400014}
   - component: {fileID: 13600000}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: BodyCentreCapsule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -147,7 +147,7 @@ GameObject:
   - component: {fileID: 400016}
   - component: {fileID: 3300006}
   - component: {fileID: 6500004}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: AileronLeftBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -163,7 +163,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400018}
   - component: {fileID: 9600000}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Trail Left
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -179,7 +179,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400020}
   - component: {fileID: 9600002}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Trail Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -197,7 +197,7 @@ GameObject:
   - component: {fileID: 19800002}
   - component: {fileID: 19900002}
   - component: {fileID: 11400020}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: VapourTrailSystem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -212,7 +212,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 400024}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Trails
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -244,7 +244,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 400028}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Particles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -328,7 +328,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400038}
   - component: {fileID: 13500000}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: NoseSphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -379,7 +379,7 @@ GameObject:
   - component: {fileID: 400044}
   - component: {fileID: 3300018}
   - component: {fileID: 6500002}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: WingRightBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -446,7 +446,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400052}
   - component: {fileID: 13600002}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: BodyLeftCapsule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -462,7 +462,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400054}
   - component: {fileID: 13600004}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: BodyRightCapsule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -479,7 +479,7 @@ GameObject:
   - component: {fileID: 400056}
   - component: {fileID: 3300026}
   - component: {fileID: 6500006}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: WingLeftBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -629,7 +629,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400074}
   - component: {fileID: 13600006}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: NoseCapsule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -646,7 +646,7 @@ GameObject:
   - component: {fileID: 400076}
   - component: {fileID: 3300042}
   - component: {fileID: 6500008}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: WingRightBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -663,7 +663,7 @@ GameObject:
   - component: {fileID: 400078}
   - component: {fileID: 3300044}
   - component: {fileID: 6500010}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: TailfinLeftBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -732,7 +732,7 @@ GameObject:
   - component: {fileID: 19900004}
   - component: {fileID: 19800004}
   - component: {fileID: 11400016}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: AfterburnerRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -799,7 +799,7 @@ GameObject:
   - component: {fileID: 19900006}
   - component: {fileID: 19800006}
   - component: {fileID: 11400022}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: AfterburnerLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -817,7 +817,7 @@ GameObject:
   - component: {fileID: 19900008}
   - component: {fileID: 19800008}
   - component: {fileID: 11400024}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Glow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -910,7 +910,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100010}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -936, y: 0.31, z: -958}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 400008}
@@ -918,6 +918,7 @@ Transform:
   - {fileID: 400024}
   - {fileID: 400092}
   - {fileID: 400072}
+  - {fileID: 4927959964734788}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2757,19 +2758,19 @@ MonoBehaviour:
   m_MaxEnginePower: 40
   m_MinEnginePower: 0
   m_Lift: 0.002
-  m_ZeroLiftSpeed: 500
-  m_RollEffect: 0.75
-  m_PitchEffect: 0.75
+  m_ZeroLiftSpeed: 100
+  m_RollEffect: 1.5
+  m_PitchEffect: 1.5
   m_YawEffect: 0.2
   m_BankedTurnEffect: 0.5
   m_AerodynamicEffect: 0.02
   m_AutoTurnPitch: 0.5
   m_AutoRollLevel: 0.1
   m_AutoPitchLevel: 0.1
-  m_AirBrakesEffect: 3
-  m_BrakeChangeSpeed: 0.3
-  m_ThrottleChangeSpeed: 0.3
-  m_DragIncreaseFactor: 0.001
+  m_AirBrakesEffect: 5
+  m_BrakeChangeSpeed: 0.75
+  m_ThrottleChangeSpeed: 0.75
+  m_DragIncreaseFactor: 0.01
 --- !u!114 &11400002
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -20045,3 +20046,31 @@ Prefab:
   m_ParentPrefab: {fileID: 0}
   m_RootGameObject: {fileID: 100010}
   m_IsPrefabParent: 1
+--- !u!1 &1775199478597368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4927959964734788}
+  m_Layer: 0
+  m_Name: CameraRig
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4927959964734788
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1775199478597368}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 6, z: -25}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 400010}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

@@ -22,8 +22,8 @@ namespace UnityStandardAssets.Vehicles.Aeroplane
 
         private void Update()
         {
-            roll = Input.GetAxis("Horizontal");
-            pitch = Input.GetAxis("Vertical");
+            roll = Input.GetAxis("Mouse X");
+            pitch = Input.GetAxis("Mouse Y");
             airBrakes = Input.GetAxis("LeftTrigger");
             throttle = Input.GetAxis("RightTrigger");
         }
